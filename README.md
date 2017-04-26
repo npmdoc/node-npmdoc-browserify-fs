@@ -1,6 +1,6 @@
 # npmdoc-browserify-fs
 
-#### api documentation for  [browserify-fs (v1.0.0)](https://github.com/mafintosh/browserify-fs)  [![npm package](https://img.shields.io/npm/v/npmdoc-browserify-fs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-browserify-fs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-browserify-fs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-browserify-fs)
+#### basic api documentation for  [browserify-fs (v1.0.0)](https://github.com/mafintosh/browserify-fs)  [![npm package](https://img.shields.io/npm/v/npmdoc-browserify-fs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-browserify-fs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-browserify-fs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-browserify-fs)
 
 #### fs for the browser using level-filesystem and browserify
 
@@ -54,7 +54,8 @@
         "type": "git",
         "url": "git://github.com/mafintosh/browserify-fs.git"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
